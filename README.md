@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://seeklogo.com/images/C/cisco-logo-833198B2C1-seeklogo.com.png" alt="Cisco Banner" width="300"/>
+  <img src="![ChatGPT Image 19 de mai  de 2025, 16_19_56](https://github.com/user-attachments/assets/b9375d7f-bad4-45f8-90fa-baf7239a90aa)
+" alt="Cisco Banner" width="300"/>
 </p>
 
 # 👋 Olá! Eu sou Luan Curt
