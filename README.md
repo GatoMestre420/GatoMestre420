@@ -53,8 +53,10 @@ Sou um estudante de Análise e Desenvolvimento de sistemas, Redes, Ciberseguran�
 ## 📫 Vamos nos conectar!
 
 <p>
-<a href=[https://www.linkedin.com/in/luan-curt-88961624a/]><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/luan-curt-88961624a"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 ✉️ Email: luancurt@outlook.com
+</p>
+
 
 ---
 
