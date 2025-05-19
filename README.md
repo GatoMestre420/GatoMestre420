@@ -49,15 +49,11 @@ Sou um estudante de Análise e Desenvolvimento de sistemas, Redes, Ciberseguran�
 
 ---
 
-## 📈 GitHub Stats
-
-[![Seu Nome GitHub Stats]](https://github.com/GatoMestre420)(https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
-
----
 
 ## 📫 Vamos nos conectar!
 
-[[![LinkedIn]](https://www.linkedin.com/in/luan-curt-88961624a/)(https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)  
+<p>
+<a href=[https://www.linkedin.com/in/luan-curt-88961624a/]><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 ✉️ Email: luancurt@outlook.com
 
 ---
