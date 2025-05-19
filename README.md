@@ -1,30 +1,27 @@
 <p align="center">
-  <img src="![ChatGPT Image 19 de mai  de 2025, 16_19_56](https://github.com/user-attachments/assets/b9375d7f-bad4-45f8-90fa-baf7239a90aa)
-" alt="Cisco Banner" width="300"/>
+  <img src="https://github.com/user-attachments/assets/b9375d7f-bad4-45f8-90fa-baf7239a90aa" alt="Cisco Banner" width="300"/>
 </p>
 
-# 👋 Olá! Eu sou Luan Curt
+# 👋 Olá! Eu sou o Luan Curt
 
-Sou um estudante de Análise e Desenvolvimento de sistemas, Redes, Cibersegurança, com foco em cursos e certificações da **Cisco Networking Academy**. Estou sempre buscando evoluir na área de tecnologia, especialmente no universo de infraestrutura de redes, segurança e conectividade.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Redes**, **Cibersegurança** e infraestrutura de TI, atualmente aprimorando meus conhecimentos através da **Cisco Networking Academy**. Apaixonado por tecnologia, busco constantemente evoluir na área de conectividade, segurança e automação de redes.
 
 ---
 
-## 🎓 Cursos da Cisco
+## 🎓 Cursos da Cisco Networking Academy
 
-🚀 Aqui estão alguns cursos que concluí ou estou cursando:
+Aqui estão alguns dos cursos que já concluí e os que estou estudando:
 
 - ✅ **Introduction to Cybersecurity**
 - ✅ **Cybersecurity Essentials**
 - ✅ **Networking Essentials**
 - 🔄 **Introduction to Networks (CCNA 1)** *(em andamento)*
-- 🔜 **Switching, Routing, and Wireless Essentials (CCNA 2)** 
+- 🔜 **Switching, Routing, and Wireless Essentials (CCNA 2)**
 - 🔜 **Enterprise Networking, Security, and Automation (CCNA 3)**
-
-
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas que utilizo
 
 ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/-PacketTracer-0078D7?style=flat&logo=cisco&logoColor=white)
@@ -41,24 +38,26 @@ Sou um estudante de Análise e Desenvolvimento de sistemas, Redes, Ciberseguran�
 
 ---
 
-## 📚 Atualmente Estudando
+## 📚 O que estou estudando atualmente
 
-- Redes de computadores (CCNA)
-- Fundamentos de segurança da informação
-- Protocolos como TCP/IP, OSPF, VLANs e NAT
+- Redes de computadores avançadas (CCNA)
+- Fundamentos de Segurança da Informação
+- Protocolos de rede: TCP/IP, OSPF, VLANs, NAT
 
 ---
-
 
 ## 📫 Vamos nos conectar!
 
-<p>
-<a href="https://www.linkedin.com/in/luan-curt-88961624a"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-✉️ Email: luancurt@outlook.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/luan-curt-88961624a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:luancurt@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email"/>
+  </a>
 </p>
-
 
 ---
 
-> *“Acredite no processo.”* – Luan Curt
-
+> *“Acredite no processo.”* – **Luan Curt**
