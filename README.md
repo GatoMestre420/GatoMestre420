@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b9375d7f-bad4-45f8-90fa-baf7239a90aa" alt="Cisco Banner" width="300"/>
+  <img src="https://github.com/user-attachments/assets/b9375d7f-bad4-45f8-90fa-baf7239a90aa" alt="Cisco Banner" width="600"/>
 </p>
 
 # 👋 Olá! Eu sou o Luan Curt
